@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "DUONGTRUNGTHUC_QLSV/1.0.0": {
+        "runtime": {
+          "DUONGTRUNGTHUC_QLSV.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DUONGTRUNGTHUC_QLSV/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
